@@ -12,7 +12,7 @@ Run `npm install --save mongoose` to install Mongoose in order to access MongoDB
 
 ## Connect to MongoDB
 
-Run `npm run start:sever` to start the MongoDB server in order to add, edit, delete, store, and fetch your posts.
+Run `npm run start:server` to start the MongoDB server in order to add, edit, delete, store, and fetch your posts.
 
 ## Useful Docs
 
