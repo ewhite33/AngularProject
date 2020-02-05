@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `npm install --save mongoose` to install Mongoose in order to access MongoDB. Mongoose uses schemas to allow structuring your data for easier fecthing and storing.
 
-## Connest to MongoDB
+## Connect to MongoDB
 
 Run `npm run start:sever` to start the MongoDB server in order to add, edit, delete, store, and fetch your posts.
 
